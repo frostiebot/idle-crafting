@@ -1,4 +1,0 @@
---recursive
---require babel-register
---require chai/register-expect
---reporter spec
